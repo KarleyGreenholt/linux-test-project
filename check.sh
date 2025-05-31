@@ -14,7 +14,7 @@ if [ -d "$DIR" ]; then
 for i in 1 2; do
   if [ -f "$FILE2" ]; then
     # Calculate current checksum
-    curr_checksum2=$(sha256sum "$FILE" | awk '{print $1}')
+    curr_checksum2=$(sha256sum "$FILE2" | awk '{print $1}')
     
     if [ "$prev_checksum2" != "" ]; then
       if [ "$curr_checksum2" != "$prev_checksum2" ]; then
