@@ -7,7 +7,7 @@ if [ -d "$DIR" ]; then
   echo "Running"
   cd ~
   cd gpUxgdSz
-  FILE2="loger.log"
+  FILE2="~/gpUxgdSz/loger.log"
 
   prev_checksum2=""
 
