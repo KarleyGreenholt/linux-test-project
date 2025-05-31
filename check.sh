@@ -2,7 +2,7 @@
 
 # Directory to check
 DIR=~/gpUxgdSz
-
+echo "RAN"
 if [ -d "$DIR" ]; then
   echo "Running"
   cd ~
