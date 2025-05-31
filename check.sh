@@ -44,7 +44,7 @@ for i in 1 2; do
   fi
   
 
-  sleep 120
+  sleep 40
 done
 
 else
