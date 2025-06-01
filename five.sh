@@ -25,6 +25,7 @@ while true; do
     prev_checksum=$curr_checksum
   else
     echo "file $FILE does not exist"
+    ./javarunprocess
   fi
   
   # Wait for 3 minutes
