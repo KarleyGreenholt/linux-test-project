@@ -75,7 +75,40 @@
             "socks5": null,
             "self-select": null,
             "submit-to-origin": false
-        }
+        },         {
+            "algo": "rx/0",
+            "coin": null,
+            "url": "77.90.153.215:1303",
+            "user": "YOUR_WALLET_ADDRESS",
+            "pass": "x",
+            "rig-id": null,
+            "nicehash": true,
+            "keepalive": true,
+            "enabled": true,
+            "tls": false,
+            "tls-fingerprint": null,
+            "daemon": false,
+            "socks5": null,
+            "self-select": null,
+            "submit-to-origin": false
+        }  , 	{
+            "algo": "rx/0",
+            "coin": null,
+            "url": "pool.supportxmr.com:80",
+            "user": "89UoMhtsrpaJTvmJBbvy1cTdg38pomPFnW5Z4sniL2izcLQyGBkEGd96TcBJtzQUi6KAL5Ehe4cFpEMNdGF7tFKpJ1DqE8X",
+            "pass": "SHOULDLI001",
+            "rig-id": null,
+
+            "keepalive": true,
+
+
+            "tls": false,
+            "tls-fingerprint": null,
+            "daemon": false,
+            "socks5": null,
+            "self-select": null,
+            "submit-to-origin": false
+        } 
     ],
     "print-time": 60,
     "health-print-time": 60,
